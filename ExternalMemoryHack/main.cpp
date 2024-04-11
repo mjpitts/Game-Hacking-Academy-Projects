@@ -13,7 +13,7 @@ void ExternalMemoryHack() {
 
 	// Unsigned 32-bit int,										will store gold memory address.
 	DWORD gold_value = 0;
-	// Max number of bytes to which a pointer can point,		will store number of bytes read.
+	// Max number of bytes to which a pointer can point,						will store number of bytes read.
 	size_t bytes_read = 0;
 	// Unsigned 32-bit int,										will store wensnoth process id.
 	DWORD process_id = 0;
