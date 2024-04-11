@@ -24,6 +24,7 @@
     <ProjectGuid>{5b21f36f-ead5-4e84-b750-84d9cbf9e5c6}</ProjectGuid>
     <RootNamespace>ExternalMemoryHack</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Solutions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
